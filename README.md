@@ -3,3 +3,4 @@
 これはシステム工学応用実習の練習用ファイルです。
 
 少し編集を加えました。
+ New line added by a local environment.
